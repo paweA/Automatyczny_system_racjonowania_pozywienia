@@ -7,4 +7,4 @@ W oknie programu Opcje znajdują się opcje pozwalające połączyć się z urz�
 -nazwa sieci wi-fi,
 
 -hasło do sieci.
-![](https://user-images.githubusercontent.com/32841254/109830258-9b48fb00-7c3e-11eb-99e5-727d258a7ae2.png)
+![](https://user-images.githubusercontent.com/32841254/109830453-cc293000-7c3e-11eb-8b4f-681d90ce171f.png)
